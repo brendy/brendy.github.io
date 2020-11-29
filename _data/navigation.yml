@@ -1,5 +1,11 @@
 # main links
 main:
+  - title: "categories"
+    url: https://brendy.github.io/categories/
+  - title: "tags"
+    url: https://brendy.github.io/tags/
+  - title: "|"
+    url: 
   - title: "brendy.net"
     url: https://brendy.net
   - title: "git"
