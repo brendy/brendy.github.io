@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "brendy.net"
-    url: https://brendy.net/
-  - title: "About"
-    url: https://brendy.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+    url: https://brendy.net
+  - title: "git"
+    url: https://github.com/brendy
+  - title: "pds"
+    url: https://blog.brendy.net
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
+  #- title: "Sitemap"
+  #  url: /sitemap/
